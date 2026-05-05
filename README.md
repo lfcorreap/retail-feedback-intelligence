@@ -50,5 +50,5 @@ Chain-of-Thought prompting outperforms all others — especially on mixed or amb
 - CoT prompting detects nuanced dissatisfaction that Zero-Shot and Few-Shot miss
 - Recommendation behavior alone is not a reliable signal for customer satisfaction
 
-## 📬 Contact
+## Contact
 [LinkedIn](https://www.linkedin.com/in/luisa-correa-data/)
